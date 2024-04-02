@@ -13,12 +13,11 @@
 - [ ] 支持投影变换
 
 ## 使用简要说明
-略
+MDL Applications中，选择CEPrj.ma文件并载入;
+key-ins中，输入atcditools->export->3dtiles，打开转换程序界面;
 ```
 ps:后续逐步增加
 ```
-## 应用下载
-[应用]
 
 ## 开发语言及插件
 C++，rapidjson
